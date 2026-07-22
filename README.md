@@ -4,7 +4,7 @@ A step-by-step, real-world data cleaning workflow built with Pandas, using the [
 
 This project walks through identifying and fixing the kinds of problems that show up in almost every real dataset: missing values, duplicate rows, incorrect data types, inconsistent text formatting, and outliers — using Pandas rather than a black-box cleaning library, so every step is transparent and explainable.
 
-📖 Full write-up: [Data Cleaning Made Easy: Best Practices with Pandas (With Real-World Examples)](https://datatodeploy.com)
+📖 Full write-up: [Data Cleaning Made Easy: Best Practices with Pandas (With Real-World Examples)](https://datatodeploy.com/pandas-data-cleaning-guide/)
 
 ## Dataset
 
@@ -62,7 +62,6 @@ Or, if you're running it in Google Colab, upload `AB_NYC_2019.csv` to your Colab
 ├── data_cleaning.ipynb        # Main notebook — full cleaning workflow
 ├── AB_NYC_2019.csv            # Raw dataset (not included — download from Kaggle)
 ├── AB_NYC_2019_cleaned.csv    # Output — generated after running the notebook
-├── requirements.txt
 └── README.md
 ```
 
@@ -76,5 +75,5 @@ Or, if you're running it in Google Colab, upload `AB_NYC_2019.csv` to your Colab
 This project is for educational purposes. The dataset is provided by [Kaggle](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data) under its associated license — refer to the Kaggle page for usage terms.
 
 ## Author
-Full Blog post: (https://datatodeploy.com/pandas-data-cleaning-guide/)
+
 Built by Arash — part of the [datatodeploy.com](https://datatodeploy.com) technical blog covering Python, data science, and deployment.
