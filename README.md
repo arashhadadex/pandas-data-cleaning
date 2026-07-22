@@ -4,7 +4,7 @@ A step-by-step, real-world data cleaning workflow built with Pandas, using the [
 
 This project walks through identifying and fixing the kinds of problems that show up in almost every real dataset: missing values, duplicate rows, incorrect data types, inconsistent text formatting, and outliers — using Pandas rather than a black-box cleaning library, so every step is transparent and explainable.
 
-📖 Full write-up: [Data Cleaning Made Easy: Best Practices with Pandas (With Real-World Examples)](https://datatodeploy.com/pandas-data-cleaning-guide/)
+📖 Full blog post: [Data Cleaning Made Easy: Best Practices with Pandas (With Real-World Examples)](https://datatodeploy.com/pandas-data-cleaning-guide/)
 
 ## Dataset
 
