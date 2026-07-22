@@ -13,7 +13,7 @@ This project walks through identifying and fixing the kinds of problems that sho
 - **Size:** ~49,000 rows, 16 columns
 - **Contents:** Airbnb listing data across NYC's five boroughs — host info, location, room type, price, minimum nights, review activity, and availability
 
-The dataset isn't included in this repository. Download it from Kaggle and place `AB_NYC_2019.csv` in the project root before running the notebook.
+The dataset isn't included in this repository. Download it within data-cleaning.ipynb file or from Kaggle and place `AB_NYC_2019.csv` in the project root before running the notebook.
 
 ## What This Project Covers
 
